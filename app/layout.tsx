@@ -2,8 +2,8 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
+  title: 'Pentaton App',
+  description: 'Pentaton redefines the music industry with decentralized streaming, NFT-backed music, and blockchain-powered royalty distribution, empowering artists and fans alike.',
 }
 
 export default function RootLayout({
